@@ -1,7 +1,7 @@
 {
   "name": "The Church of Jesus Cat",
   "symbol": "BELIEVE",
-  "description": "The world's first official crypto religion. Website: https://jesuscat.org/. Telegram: https://t.me/TheChurchofJesusCat. X: https://twitter.com/BelieveJesusCat."
+  "description": "The world's first official crypto religion. Website: https://thechurchofjesuscat.com/. Telegram: https://t.me/TheChurchofJesusCat. X: https://twitter.com/BelieveJesusCat."
   "image": "https://raw.githubusercontent.com/thechurchofjesuscat/JesusCat/main/JesusCat.png",
-  "extensions":{"website":"https://jesuscat.org/","twitter":"https://twitter.com/BelieveJesusCat","telegram":"https://t.me/TheChurchofJesusCat"},"tags":[],"creator":{"name":"Anatoly, Solana's Father","site":""}
+  "extensions":{"website":"https://thechurchofjesuscat.com","twitter":"https://twitter.com/BelieveJesusCat","telegram":"https://t.me/TheChurchofJesusCat"},"tags":[],"creator":{"name":"Anatoly, Solana's Father","site":""}
 }
